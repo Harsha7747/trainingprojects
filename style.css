@@ -1,0 +1,47 @@
+/* h1{
+    background:linear-gradient(90deg,#a85ee9,#2f4fdd,rgb(79, 213, 177),#000);
+    color:white;
+    width:500px;
+    /* border-radius: 5%;
+    border-left:20px;
+    border-top: 40px; */
+    
+/* }
+img{
+    display:flexbox;
+    text-align: center;
+    position: relative;
+    image-resolution: 50px;;
+    height: 500px;
+    width:300px;
+    filter:blur(px);
+    filter:contrast(1)
+    /* transition:.20s ease-in; 
+
+}
+img:hover{
+transform: scale(1.2) rotate(8deg);
+filter:contrast();
+animation:url("dowlnoad.jpeg");
+
+
+}
+img:active{
+
+     background-image: url("prabhas.jpg");
+} */
+div{
+
+    background-color: aquamarine;
+    width:300px;
+    margin:50px;
+    padding-left:50px;
+}
+button{
+    text-align:center;
+    margin-left: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+
