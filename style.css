@@ -1,6 +1,10 @@
 body{
 background-image: url('login.jpg');
 }
+.container{
+    backdrop-filter:blur(15px);
+    background:rgba(255,255,255,0.2);
+}
 div{
     background-color: aquamarine;
     width:300px;
