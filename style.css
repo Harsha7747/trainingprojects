@@ -24,3 +24,7 @@ font-size:30px;
 width:80%;
 
 }
+button:hover{
+border: 1px solid blue;
+
+}
